@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week05\Condition\Condition\bin\Debug\Condition.exe.config
+H:\Visual Studio Projects\Week05\Condition\Condition\bin\Debug\Condition.exe
+H:\Visual Studio Projects\Week05\Condition\Condition\bin\Debug\Condition.pdb
+H:\Visual Studio Projects\Week05\Condition\Condition\obj\Debug\Condition.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Week05\Condition\Condition\obj\Debug\Condition.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week05\Condition\Condition\obj\Debug\Condition.exe
+H:\Visual Studio Projects\Week05\Condition\Condition\obj\Debug\Condition.pdb

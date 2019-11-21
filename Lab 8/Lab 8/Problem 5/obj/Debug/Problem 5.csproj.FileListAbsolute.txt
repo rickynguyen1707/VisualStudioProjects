@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 5\bin\Debug\Problem 5.exe.config
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 5\bin\Debug\Problem 5.exe
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 5\bin\Debug\Problem 5.pdb
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 5\obj\Debug\Problem 5.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 5\obj\Debug\Problem 5.exe
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 5\obj\Debug\Problem 5.pdb

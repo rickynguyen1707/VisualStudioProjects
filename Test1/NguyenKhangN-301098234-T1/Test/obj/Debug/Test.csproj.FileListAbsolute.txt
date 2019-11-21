@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Test\bin\Debug\Test.exe.config
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Test\bin\Debug\Test.exe
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Test\bin\Debug\Test.pdb
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Test\obj\Debug\Test.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Test\obj\Debug\Test.exe
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Test\obj\Debug\Test.pdb

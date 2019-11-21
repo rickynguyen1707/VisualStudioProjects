@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week03\Weeek03\Number2\bin\Debug\Number2.exe.config
+H:\Visual Studio Projects\Week03\Weeek03\Number2\bin\Debug\Number2.exe
+H:\Visual Studio Projects\Week03\Weeek03\Number2\bin\Debug\Number2.pdb
+H:\Visual Studio Projects\Week03\Weeek03\Number2\obj\Debug\Number2.exe
+H:\Visual Studio Projects\Week03\Weeek03\Number2\obj\Debug\Number2.pdb
+H:\Visual Studio Projects\Week03\Weeek03\Number2\obj\Debug\Number2.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Week03\Weeek03\Number2\obj\Debug\Number2.csproj.CoreCompileInputs.cache

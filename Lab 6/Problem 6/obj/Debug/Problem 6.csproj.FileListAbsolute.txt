@@ -1,0 +1,10 @@
+F:\COMP Homework\Lab 6\Problem 6\obj\Debug\Problem 6.csprojAssemblyReference.cache
+F:\COMP Homework\Lab 6\Problem 6\obj\Debug\Problem 6.csproj.CoreCompileInputs.cache
+F:\COMP Homework\Lab 6\Problem 6\bin\Debug\Problem 6.exe.config
+F:\COMP Homework\Lab 6\Problem 6\bin\Debug\Problem 6.exe
+F:\COMP Homework\Lab 6\Problem 6\bin\Debug\Problem 6.pdb
+F:\COMP Homework\Lab 6\Problem 6\obj\Debug\Problem 6.exe
+F:\COMP Homework\Lab 6\Problem 6\obj\Debug\Problem 6.pdb
+H:\Visual Studio Projects\Lab 6\Problem 6\bin\Debug\Problem 6.exe.config
+H:\Visual Studio Projects\Lab 6\Problem 6\obj\Debug\Problem 6.exe
+H:\Visual Studio Projects\Lab 6\Problem 6\obj\Debug\Problem 6.pdb

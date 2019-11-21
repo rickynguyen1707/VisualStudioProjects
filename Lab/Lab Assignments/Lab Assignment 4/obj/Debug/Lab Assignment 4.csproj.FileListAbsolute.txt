@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 4\bin\Debug\Lab Assignment 4.exe.config
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 4\bin\Debug\Lab Assignment 4.exe
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 4\bin\Debug\Lab Assignment 4.pdb
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 4\obj\Debug\Lab Assignment 4.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 4\obj\Debug\Lab Assignment 4.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 4\obj\Debug\Lab Assignment 4.exe
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 4\obj\Debug\Lab Assignment 4.pdb

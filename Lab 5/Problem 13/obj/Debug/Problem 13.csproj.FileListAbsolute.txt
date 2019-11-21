@@ -1,0 +1,6 @@
+F:\COMP Homework\Lab 5\Problem 13\bin\Debug\Problem 13.exe.config
+F:\COMP Homework\Lab 5\Problem 13\bin\Debug\Problem 13.exe
+F:\COMP Homework\Lab 5\Problem 13\bin\Debug\Problem 13.pdb
+F:\COMP Homework\Lab 5\Problem 13\obj\Debug\Problem 13.csproj.CoreCompileInputs.cache
+F:\COMP Homework\Lab 5\Problem 13\obj\Debug\Problem 13.exe
+F:\COMP Homework\Lab 5\Problem 13\obj\Debug\Problem 13.pdb

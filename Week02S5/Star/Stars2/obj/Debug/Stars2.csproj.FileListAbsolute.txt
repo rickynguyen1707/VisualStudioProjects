@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\Week02S5\Star\Stars2\obj\Debug\Stars2.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week02S5\Star\Stars2\bin\Debug\Stars2.exe.config
+H:\Visual Studio Projects\Week02S5\Star\Stars2\bin\Debug\Stars2.exe
+H:\Visual Studio Projects\Week02S5\Star\Stars2\bin\Debug\Stars2.pdb
+H:\Visual Studio Projects\Week02S5\Star\Stars2\obj\Debug\Stars2.exe
+H:\Visual Studio Projects\Week02S5\Star\Stars2\obj\Debug\Stars2.pdb

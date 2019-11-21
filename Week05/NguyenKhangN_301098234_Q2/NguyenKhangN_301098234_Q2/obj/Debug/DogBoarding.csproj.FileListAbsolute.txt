@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week05\NguyenKhangN_301098234_Q2\NguyenKhangN_301098234_Q2\bin\Debug\NguyenKhangN_301098234_Q2.exe.config
+H:\Visual Studio Projects\Week05\NguyenKhangN_301098234_Q2\NguyenKhangN_301098234_Q2\bin\Debug\NguyenKhangN_301098234_Q2.exe
+H:\Visual Studio Projects\Week05\NguyenKhangN_301098234_Q2\NguyenKhangN_301098234_Q2\bin\Debug\NguyenKhangN_301098234_Q2.pdb
+H:\Visual Studio Projects\Week05\NguyenKhangN_301098234_Q2\NguyenKhangN_301098234_Q2\obj\Debug\DogBoarding.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Week05\NguyenKhangN_301098234_Q2\NguyenKhangN_301098234_Q2\obj\Debug\DogBoarding.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week05\NguyenKhangN_301098234_Q2\NguyenKhangN_301098234_Q2\obj\Debug\NguyenKhangN_301098234_Q2.exe
+H:\Visual Studio Projects\Week05\NguyenKhangN_301098234_Q2\NguyenKhangN_301098234_Q2\obj\Debug\NguyenKhangN_301098234_Q2.pdb

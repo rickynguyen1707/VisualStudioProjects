@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Admission\bin\Debug\Admission.exe.config
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Admission\bin\Debug\Admission.exe
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Admission\bin\Debug\Admission.pdb
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Admission\obj\Debug\Admission.exe
+H:\Visual Studio Projects\Test1\NguyenKhangN-301098234-T1\Admission\obj\Debug\Admission.pdb

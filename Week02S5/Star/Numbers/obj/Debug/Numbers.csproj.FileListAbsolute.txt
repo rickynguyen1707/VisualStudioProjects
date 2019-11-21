@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week02S5\Star\Numbers\bin\Debug\Numbers.exe.config
+H:\Visual Studio Projects\Week02S5\Star\Numbers\bin\Debug\Numbers.exe
+H:\Visual Studio Projects\Week02S5\Star\Numbers\bin\Debug\Numbers.pdb
+H:\Visual Studio Projects\Week02S5\Star\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week02S5\Star\Numbers\obj\Debug\Numbers.exe
+H:\Visual Studio Projects\Week02S5\Star\Numbers\obj\Debug\Numbers.pdb
+H:\Visual Studio Projects\Week02S5\Star\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache

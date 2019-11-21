@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\Week07\Week 7\DoLoopTries\bin\Debug\DoLoopTries.exe.config
+H:\Visual Studio Projects\Week07\Week 7\DoLoopTries\bin\Debug\DoLoopTries.exe
+H:\Visual Studio Projects\Week07\Week 7\DoLoopTries\bin\Debug\DoLoopTries.pdb
+H:\Visual Studio Projects\Week07\Week 7\DoLoopTries\obj\Debug\DoLoopTries.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week07\Week 7\DoLoopTries\obj\Debug\DoLoopTries.exe
+H:\Visual Studio Projects\Week07\Week 7\DoLoopTries\obj\Debug\DoLoopTries.pdb

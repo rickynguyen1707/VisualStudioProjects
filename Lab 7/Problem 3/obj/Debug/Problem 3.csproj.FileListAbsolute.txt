@@ -1,0 +1,5 @@
+H:\Visual Studio Projects\Lab 7\Problem 3\bin\Debug\Problem 3.exe.config
+H:\Visual Studio Projects\Lab 7\Problem 3\bin\Debug\Problem 3.exe
+H:\Visual Studio Projects\Lab 7\Problem 3\bin\Debug\Problem 3.pdb
+H:\Visual Studio Projects\Lab 7\Problem 3\obj\Debug\Problem 3.exe
+H:\Visual Studio Projects\Lab 7\Problem 3\obj\Debug\Problem 3.pdb

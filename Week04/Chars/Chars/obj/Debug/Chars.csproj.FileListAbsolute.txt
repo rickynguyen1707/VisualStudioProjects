@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week04\Chars\Chars\bin\Debug\Chars.exe.config
+H:\Visual Studio Projects\Week04\Chars\Chars\bin\Debug\Chars.exe
+H:\Visual Studio Projects\Week04\Chars\Chars\bin\Debug\Chars.pdb
+H:\Visual Studio Projects\Week04\Chars\Chars\obj\Debug\Chars.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week04\Chars\Chars\obj\Debug\Chars.exe
+H:\Visual Studio Projects\Week04\Chars\Chars\obj\Debug\Chars.pdb
+H:\Visual Studio Projects\Week04\Chars\Chars\obj\Debug\Chars.csprojAssemblyReference.cache

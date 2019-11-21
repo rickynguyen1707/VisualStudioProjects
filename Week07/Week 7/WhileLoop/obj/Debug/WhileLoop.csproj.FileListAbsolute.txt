@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week07\Week 7\WhileLoop\bin\Debug\WhileLoop.exe.config
+H:\Visual Studio Projects\Week07\Week 7\WhileLoop\bin\Debug\WhileLoop.exe
+H:\Visual Studio Projects\Week07\Week 7\WhileLoop\bin\Debug\WhileLoop.pdb
+H:\Visual Studio Projects\Week07\Week 7\WhileLoop\obj\Debug\WhileLoop.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Week07\Week 7\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week07\Week 7\WhileLoop\obj\Debug\WhileLoop.exe
+H:\Visual Studio Projects\Week07\Week 7\WhileLoop\obj\Debug\WhileLoop.pdb

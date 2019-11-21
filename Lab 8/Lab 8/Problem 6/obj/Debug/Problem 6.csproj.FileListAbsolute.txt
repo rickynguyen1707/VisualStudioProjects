@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 6\bin\Debug\Problem 6.exe.config
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 6\bin\Debug\Problem 6.exe
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 6\bin\Debug\Problem 6.pdb
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 6\obj\Debug\Problem 6.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 6\obj\Debug\Problem 6.exe
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 6\obj\Debug\Problem 6.pdb
+H:\Visual Studio Projects\Lab 8\Lab 8\Problem 6\obj\Debug\Problem 6.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\NguyenKhangN-301098234-T2\Problem 2\bin\Debug\Problem 2.exe.config
+H:\Visual Studio Projects\NguyenKhangN-301098234-T2\Problem 2\bin\Debug\Problem 2.exe
+H:\Visual Studio Projects\NguyenKhangN-301098234-T2\Problem 2\bin\Debug\Problem 2.pdb
+H:\Visual Studio Projects\NguyenKhangN-301098234-T2\Problem 2\obj\Debug\Problem 2.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\NguyenKhangN-301098234-T2\Problem 2\obj\Debug\Problem 2.exe
+H:\Visual Studio Projects\NguyenKhangN-301098234-T2\Problem 2\obj\Debug\Problem 2.pdb
+H:\Visual Studio Projects\NguyenKhangN-301098234-T2\Problem 2\obj\Debug\Problem 2.csprojAssemblyReference.cache

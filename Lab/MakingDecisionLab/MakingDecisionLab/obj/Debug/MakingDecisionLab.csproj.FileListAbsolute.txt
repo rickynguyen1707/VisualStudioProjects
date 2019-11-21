@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Lab\MakingDecisionLab\MakingDecisionLab\bin\Debug\MakingDecisionLab.exe.config
+H:\Visual Studio Projects\Lab\MakingDecisionLab\MakingDecisionLab\bin\Debug\MakingDecisionLab.exe
+H:\Visual Studio Projects\Lab\MakingDecisionLab\MakingDecisionLab\bin\Debug\MakingDecisionLab.pdb
+H:\Visual Studio Projects\Lab\MakingDecisionLab\MakingDecisionLab\obj\Debug\MakingDecisionLab.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Lab\MakingDecisionLab\MakingDecisionLab\obj\Debug\MakingDecisionLab.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Lab\MakingDecisionLab\MakingDecisionLab\obj\Debug\MakingDecisionLab.exe
+H:\Visual Studio Projects\Lab\MakingDecisionLab\MakingDecisionLab\obj\Debug\MakingDecisionLab.pdb

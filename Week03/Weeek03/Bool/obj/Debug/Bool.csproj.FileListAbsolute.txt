@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week03\Weeek03\Bool\bin\Debug\Bool.exe.config
+H:\Visual Studio Projects\Week03\Weeek03\Bool\bin\Debug\Bool.exe
+H:\Visual Studio Projects\Week03\Weeek03\Bool\bin\Debug\Bool.pdb
+H:\Visual Studio Projects\Week03\Weeek03\Bool\obj\Debug\Bool.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Week03\Weeek03\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week03\Weeek03\Bool\obj\Debug\Bool.exe
+H:\Visual Studio Projects\Week03\Weeek03\Bool\obj\Debug\Bool.pdb

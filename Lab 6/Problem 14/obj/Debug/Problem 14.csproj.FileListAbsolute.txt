@@ -1,0 +1,7 @@
+F:\COMP Homework\Lab 6\Problem 14\bin\Debug\Problem 14.exe.config
+F:\COMP Homework\Lab 6\Problem 14\bin\Debug\Problem 14.exe
+F:\COMP Homework\Lab 6\Problem 14\bin\Debug\Problem 14.pdb
+F:\COMP Homework\Lab 6\Problem 14\obj\Debug\Problem 14.csprojAssemblyReference.cache
+F:\COMP Homework\Lab 6\Problem 14\obj\Debug\Problem 14.csproj.CoreCompileInputs.cache
+F:\COMP Homework\Lab 6\Problem 14\obj\Debug\Problem 14.exe
+F:\COMP Homework\Lab 6\Problem 14\obj\Debug\Problem 14.pdb

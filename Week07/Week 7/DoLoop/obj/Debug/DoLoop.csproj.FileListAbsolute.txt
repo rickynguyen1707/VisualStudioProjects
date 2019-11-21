@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week07\Week 7\DoLoop\bin\Debug\DoLoop.exe.config
+H:\Visual Studio Projects\Week07\Week 7\DoLoop\bin\Debug\DoLoop.exe
+H:\Visual Studio Projects\Week07\Week 7\DoLoop\bin\Debug\DoLoop.pdb
+H:\Visual Studio Projects\Week07\Week 7\DoLoop\obj\Debug\DoLoop.csprojAssemblyReference.cache
+H:\Visual Studio Projects\Week07\Week 7\DoLoop\obj\Debug\DoLoop.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week07\Week 7\DoLoop\obj\Debug\DoLoop.exe
+H:\Visual Studio Projects\Week07\Week 7\DoLoop\obj\Debug\DoLoop.pdb

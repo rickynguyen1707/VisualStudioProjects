@@ -1,0 +1,7 @@
+H:\Visual Studio Projects\Week04\Quiz1\Quiz1\bin\Debug\Quiz1.exe.config
+H:\Visual Studio Projects\Week04\Quiz1\Quiz1\bin\Debug\Quiz1.exe
+H:\Visual Studio Projects\Week04\Quiz1\Quiz1\bin\Debug\Quiz1.pdb
+H:\Visual Studio Projects\Week04\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week04\Quiz1\Quiz1\obj\Debug\Quiz1.exe
+H:\Visual Studio Projects\Week04\Quiz1\Quiz1\obj\Debug\Quiz1.pdb
+H:\Visual Studio Projects\Week04\Quiz1\Quiz1\obj\Debug\Quiz1.csprojAssemblyReference.cache

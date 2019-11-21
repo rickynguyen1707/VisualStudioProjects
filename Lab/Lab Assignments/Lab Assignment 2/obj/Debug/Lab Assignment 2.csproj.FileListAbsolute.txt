@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 2\bin\Debug\Lab Assignment 2.exe.config
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 2\bin\Debug\Lab Assignment 2.exe
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 2\bin\Debug\Lab Assignment 2.pdb
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 2\obj\Debug\Lab Assignment 2.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 2\obj\Debug\Lab Assignment 2.exe
+H:\Visual Studio Projects\Lab\Lab Assignments\Lab Assignment 2\obj\Debug\Lab Assignment 2.pdb

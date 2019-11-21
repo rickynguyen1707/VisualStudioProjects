@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\Lab\MakingDecisionLab\ToUpperEx\bin\Debug\ToUpperEx.exe.config
+H:\Visual Studio Projects\Lab\MakingDecisionLab\ToUpperEx\bin\Debug\ToUpperEx.exe
+H:\Visual Studio Projects\Lab\MakingDecisionLab\ToUpperEx\bin\Debug\ToUpperEx.pdb
+H:\Visual Studio Projects\Lab\MakingDecisionLab\ToUpperEx\obj\Debug\ToUpperEx.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Lab\MakingDecisionLab\ToUpperEx\obj\Debug\ToUpperEx.exe
+H:\Visual Studio Projects\Lab\MakingDecisionLab\ToUpperEx\obj\Debug\ToUpperEx.pdb

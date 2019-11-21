@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\Week07\Week 7\ForLoopTries\bin\Debug\ForLoopTries.exe.config
+H:\Visual Studio Projects\Week07\Week 7\ForLoopTries\bin\Debug\ForLoopTries.exe
+H:\Visual Studio Projects\Week07\Week 7\ForLoopTries\bin\Debug\ForLoopTries.pdb
+H:\Visual Studio Projects\Week07\Week 7\ForLoopTries\obj\Debug\ForLoopTries.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week07\Week 7\ForLoopTries\obj\Debug\ForLoopTries.exe
+H:\Visual Studio Projects\Week07\Week 7\ForLoopTries\obj\Debug\ForLoopTries.pdb

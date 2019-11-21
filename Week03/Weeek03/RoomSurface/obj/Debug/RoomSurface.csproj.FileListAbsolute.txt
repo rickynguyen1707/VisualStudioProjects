@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\Week03\Weeek03\RoomSurface\obj\Debug\RoomSurface.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\Week03\Weeek03\RoomSurface\bin\Debug\RoomSurface.exe.config
+H:\Visual Studio Projects\Week03\Weeek03\RoomSurface\bin\Debug\RoomSurface.exe
+H:\Visual Studio Projects\Week03\Weeek03\RoomSurface\bin\Debug\RoomSurface.pdb
+H:\Visual Studio Projects\Week03\Weeek03\RoomSurface\obj\Debug\RoomSurface.exe
+H:\Visual Studio Projects\Week03\Weeek03\RoomSurface\obj\Debug\RoomSurface.pdb

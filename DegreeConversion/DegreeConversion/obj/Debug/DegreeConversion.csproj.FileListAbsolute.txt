@@ -1,0 +1,14 @@
+F:\COMP Homework\DegreeConversion\DegreeConversion\bin\Debug\DegreeConversion.exe.config
+F:\COMP Homework\DegreeConversion\DegreeConversion\bin\Debug\DegreeConversion.exe
+F:\COMP Homework\DegreeConversion\DegreeConversion\bin\Debug\DegreeConversion.pdb
+F:\COMP Homework\DegreeConversion\DegreeConversion\obj\Debug\DegreeConversion.csprojAssemblyReference.cache
+F:\COMP Homework\DegreeConversion\DegreeConversion\obj\Debug\DegreeConversion.csproj.CoreCompileInputs.cache
+F:\COMP Homework\DegreeConversion\DegreeConversion\obj\Debug\DegreeConversion.exe
+F:\COMP Homework\DegreeConversion\DegreeConversion\obj\Debug\DegreeConversion.pdb
+H:\Visual Studio Projects\DegreeConversion\DegreeConversion\bin\Debug\DegreeConversion.exe.config
+H:\Visual Studio Projects\DegreeConversion\DegreeConversion\bin\Debug\DegreeConversion.exe
+H:\Visual Studio Projects\DegreeConversion\DegreeConversion\bin\Debug\DegreeConversion.pdb
+H:\Visual Studio Projects\DegreeConversion\DegreeConversion\obj\Debug\DegreeConversion.csprojAssemblyReference.cache
+H:\Visual Studio Projects\DegreeConversion\DegreeConversion\obj\Debug\DegreeConversion.csproj.CoreCompileInputs.cache
+H:\Visual Studio Projects\DegreeConversion\DegreeConversion\obj\Debug\DegreeConversion.exe
+H:\Visual Studio Projects\DegreeConversion\DegreeConversion\obj\Debug\DegreeConversion.pdb
